@@ -1,4 +1,8 @@
 {
+  "@context": [
+    "dtmi:dtdl:context;3",
+    "dtmi:dtdl:extension:quantitativeTypes;1"
+  ],
   "@id": "dtmi:com:raysapps:Inheritance:ConferenceRoom;1",
   "@type": "Interface",
   "displayName": "ConferenceRoom",
@@ -10,6 +14,7 @@
       "name": "capacity",
       "schema": "integer"
     }
-  ],
-  "@context": "dtmi:dtdl:context;3"
+  ]
+
+
 }

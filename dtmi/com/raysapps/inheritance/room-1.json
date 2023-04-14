@@ -1,4 +1,8 @@
 {
+  "@context": [
+    "dtmi:dtdl:context;3",
+    "dtmi:dtdl:extension:quantitativeTypes;1"
+  ],
   "@id": "dtmi:com:raysapps:Inheritance:Room;1",
   "@type": "Interface",
   "displayName": "Room",
@@ -9,7 +13,7 @@
       "name": "occupied",
       "schema": "boolean"
     }
-  ],
+  ]
 
-  "@context": "dtmi:dtdl:context;3"
+
 }
