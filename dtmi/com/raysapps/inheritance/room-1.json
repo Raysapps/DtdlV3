@@ -1,0 +1,15 @@
+{
+  "@id": "dtmi:com:raysapps:Inheritance:Room;1",
+  "@type": "Interface",
+  "displayName": "Room",
+  "description": "IoT-RoomSample",
+  "contents": [
+    {
+      "@type": "Property",
+      "name": "occupied",
+      "schema": "boolean"
+    }
+  ],
+
+  "@context": "dtmi:dtdl:context;3"
+}

@@ -1,0 +1,7 @@
+{
+  "@context": "dtmi:dtdl:context;3",
+  "@id": "dtmi:com:raysapps:RemoteMxchipApp:RemoteMxchipApp;1",
+  "@type": "Interface",
+  "displayName": "RemoteMxChipApp",
+  "description": "IoT-RemoteMxChipApp"
+}
