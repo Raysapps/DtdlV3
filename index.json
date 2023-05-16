@@ -43,7 +43,7 @@
       "displayName": "mxChipTelemetry",
       "description": "IoT-MxChipTelemetry"
     },
-    "dtmi:com:raysenumschema:raysenumschematype;1": {
+    "dtmi:com:raysapps:raysenumschema:raysenumschematype;1": {
       "displayName": "raysenumschematype",
       "description": "raysEnumSample"
     },

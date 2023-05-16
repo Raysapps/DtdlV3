@@ -1,6 +1,6 @@
 {
   "@context": "dtmi:dtdl:context;2",
-  "@id": "dtmi:com:raysenumschema:raysenumschematype;1",
+  "@id": "dtmi:com:raysapps:raysenumschema:raysenumschematype;1",
   "@type": "Interface",
   "displayName": "raysenumschematype",
   "description": "raysEnumSample",
