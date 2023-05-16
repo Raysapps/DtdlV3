@@ -3,7 +3,8 @@
   "@id": "dtmi:com:raysenumschema:raysenumschematype;1",
   "@type": "Interface",
   "displayName": "raysenumschematype",
-  "contents": [
+  "description": "raysEnumSample",
+   "contents": [
     {
       "@type": "Telemetry",
       "name": "state",
