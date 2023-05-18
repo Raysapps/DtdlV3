@@ -54,6 +54,12 @@
     "dtmi:com:raysapps:RemoteMxchipApp:RemoteMxchipApp;1": {
       "displayName": "RemoteMxChipApp",
       "description": "IoT-RemoteMxChipApp"
+    },
+    "dtmi:com:raysapps:SingleApp:SingleProperty;1": {
+      "displayName": "singleProperty"
+    },
+    "dtmi:com:raysapps:SingleApp:SingleTelemetry;1": {
+      "displayName": "singleTelemetry"
     }
   },
   "version": "1.0"
