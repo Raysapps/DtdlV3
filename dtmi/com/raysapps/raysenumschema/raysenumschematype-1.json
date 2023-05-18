@@ -1,10 +1,13 @@
 {
-  "@context": "dtmi:dtdl:context;2",
+  "@context": [
+    "dtmi:dtdl:context;3",
+    "dtmi:dtdl:extension:quantitativeTypes;1"
+  ],
   "@id": "dtmi:com:raysapps:raysenumschema:raysenumschematype;1",
   "@type": "Interface",
   "displayName": "raysenumschematype",
   "description": "raysEnumSample",
-   "contents": [
+  "contents": [
     {
       "@type": "Telemetry",
       "name": "state",
